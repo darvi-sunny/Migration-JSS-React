@@ -1,0 +1,46 @@
+﻿---
+ID: "bd1ffc5f-f827-547a-93ab-2ce58d5e831e"
+Parent: "a7a2bdb9-ee71-5bb6-981c-28446bf1818c"
+Template: "df0f7069-320a-5212-8323-2b2794ae7da9"
+Path: "/sitecore/content/HeadlessTenant/migration-jss/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7B6D0D083AF28BE2E849050EECB75276B05E9E7DBBA39FDE6E41E6CA301251D4F"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-File-5"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T122950Z
+    - ID: "33253419-ece9-565a-a281-77c506a30d3e"
+      Hint: description
+      Value: |
+        <small>Note: Sitecore does not support inline editing of File fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.</small>
+        
+    - ID: "3a8a836a-4aeb-5f99-b7f3-32466082f4cb"
+      Hint: file
+      Value: |
+        <file mediaid="{72BA0B7E-38F9-5A10-9A64-DCA288374C6D}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "184392c2-7b6e-4d87-a3e6-e50ac4bef5af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9249db4-6c08-5cea-853c-46bd04e5dced"
+      Hint: heading
+      Value: File
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122950Z

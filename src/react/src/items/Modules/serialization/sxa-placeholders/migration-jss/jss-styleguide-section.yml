@@ -1,0 +1,60 @@
+﻿---
+ID: "ac4a3796-8967-5674-82f8-2063d82f240a"
+Parent: "d589d008-1dc7-5f04-8c4d-dd4000d27a8e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/migration-jss/jss-styleguide-section"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-styleguide-section"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {1DFF69D4-6936-55F6-AC1D-7B58D9470150}
+    {6798C858-5272-586F-906D-87859C621BAC}
+    {4F8D337C-1611-5211-AF55-E389D053AF02}
+    {F9154394-0947-5490-B79A-18A9E146F385}
+    {035FA31E-C080-5DD3-BFDD-CD8EC47E7426}
+    {4A166D48-5C18-57A3-AE8C-62A89C72DC1C}
+    {21141F08-F2C0-5EE2-A109-0FAF1EE632ED}
+    {EFC5BF83-5C42-5DB1-AC95-940C528A9FC0}
+    {0EF0ECF5-6F6A-5ED3-8BF0-2C4C43AA5404}
+    {0B5E758D-726F-52E0-8C8B-72DE7775296F}
+    {8B219EA3-A169-5C73-99B2-04A81D4EF63F}
+    {1EA5AC1A-9832-5E86-B65A-C30D0AD4EA93}
+    {AA4AAF9F-746D-570D-8ADF-5FF29597B401}
+    {9649786F-C00E-52F6-B38D-96376DCCF83B}
+    {1C6B885D-EAEE-5954-95D9-B941BA0DFB9C}
+    {3EC6820C-B274-5D17-911B-76FCB1209AF8}
+    {259ED350-4EF8-50F6-8736-030B9B35D2B6}
+    {D6F5831C-40A7-563B-8533-D816040DFBA9}
+    {7BC89C67-7B49-5481-95E6-AE7CBE340435}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T122944Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cacb24b2-a768-4068-818e-de02a1b3713b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122952Z

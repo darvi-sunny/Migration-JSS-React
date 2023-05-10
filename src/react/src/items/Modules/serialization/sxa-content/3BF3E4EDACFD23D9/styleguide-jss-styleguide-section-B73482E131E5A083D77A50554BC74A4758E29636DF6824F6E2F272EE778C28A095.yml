@@ -1,0 +1,55 @@
+﻿---
+ID: "54b2c04a-d083-5773-80dc-2fedc337a218"
+Parent: "a7a2bdb9-ee71-5bb6-981c-28446bf1818c"
+Template: "7cade21f-4337-5133-80fd-5b901a72c259"
+Path: "/sitecore/content/HeadlessTenant/migration-jss/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T122950Z
+    - ID: "33253419-ece9-565a-a281-77c506a30d3e"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Item Links are a way to reference another content item to use data from it.
+            Referenced items may be shared.
+            To reference multiple content items, use a <em>Content List</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Item Link fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea98dd68-8146-4719-8ba5-7c3d91bc1489"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c3d08e98-dce2-588c-ad78-49287e39b6ec"
+      Hint: sharedItemLink
+      Value: "{0513CA51-9BB1-50FE-BF7E-26413A427576}"
+    - ID: "d9249db4-6c08-5cea-853c-46bd04e5dced"
+      Hint: heading
+      Value: Item Link
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122950Z
+    - ID: "dd3deb8a-5d2a-5922-bf01-3121bcc03cf9"
+      Hint: localItemLink
+      Value: "{78925E42-863B-545E-96FF-22EC23F37ECF}"

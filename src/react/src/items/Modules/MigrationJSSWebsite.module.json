@@ -1,0 +1,45 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "MigrationJSSWebsite",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/migration-jss"
+            },
+            {
+                "name": "sxa-renderings",
+                "path": "/sitecore/layout/Renderings/Project/migration-jss"
+            },
+			{
+                "name": "sxa-renderings-tenant",
+                "path": "/sitecore/layout/Renderings/Project/HeadlessTenant"
+            },
+            {
+                "name": "sxa-placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/migration-jss"
+            },
+			{
+                "name": "sxa-placeholders-tenant",
+                "path": "/sitecore/layout/Placeholder Settings/Project/HeadlessTenant"
+            },
+            {
+                "name": "headless-placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Foundation/JSS Experience Accelerator/Placeholder Settings"
+            },
+            {
+                "name": "page-structure-placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/migration-jss"
+            },
+            {
+                "name": "templates-tenant",
+                "path": "/sitecore/templates/Project/HeadlessTenant"
+            }
+        ]
+    }
+}

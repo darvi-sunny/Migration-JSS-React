@@ -1,0 +1,27 @@
+﻿---
+ID: "67cd3c86-30b9-454a-8fb9-deaec3bf6b8a"
+Parent: "2158a656-1c63-43cc-b144-b8dc42ea3a83"
+Template: "2158a656-1c63-43cc-b144-b8dc42ea3a83"
+Path: /sitecore/templates/Project/HeadlessTenant/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T111313Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f47a4fd7-2633-4274-8b96-d7dc724e3f53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T111313Z

@@ -1,0 +1,49 @@
+﻿---
+ID: "02bf7f5e-6f7b-5698-8b6d-14fd617abf30"
+Parent: "a7a2bdb9-ee71-5bb6-981c-28446bf1818c"
+Template: "9eb0edba-a435-513b-bdb8-27a30da46e20"
+Path: "/sitecore/content/HeadlessTenant/migration-jss/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7A4F8AD6E93A009B7A1F2DF9957E9F59E0069ECF65361BB997451C1257F427C02"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Date-8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c79f13b-9a89-5e95-af2b-627389a15aa7"
+      Hint: dateTime
+      Value: 20180314T150000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T122950Z
+    - ID: "33253419-ece9-565a-a281-77c506a30d3e"
+      Hint: description
+      Value: |
+        <p><small>Both <code>Date</code> and <code>DateTime</code> field types are available. Choosing <code>DateTime</code> will make Sitecore show editing UI for time; both types store complete date and time values internally. Date values in JSS are formatted using <a href="https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations" target="_blank">ISO 8601 formatted strings</a>, for example <code>2012-04-23T18:25:43.511Z</code>.</small></p>
+        <div class="alert alert-warning"><small>Note: this is a JavaScript date format (e.g. <code>new Date().toISOString()</code>), and is different from how Sitecore stores date field values internally. Sitecore-formatted dates will not work.</small></div>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1e80d65-b971-4187-8518-91b89e5d3254"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "ce3a7b62-5ea9-5921-8fc0-8bfb1a0f51ad"
+      Hint: date
+      Value: 20120504T000000Z
+    - ID: "d9249db4-6c08-5cea-853c-46bd04e5dced"
+      Hint: heading
+      Value: Date
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122950Z

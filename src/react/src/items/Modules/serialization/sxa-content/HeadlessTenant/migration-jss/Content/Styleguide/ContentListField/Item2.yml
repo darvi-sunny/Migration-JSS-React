@@ -1,0 +1,37 @@
+﻿---
+ID: "9e04f459-b044-5425-8039-7ae9e3fa5288"
+Parent: "5b855115-62d9-5dd7-8b95-414d7cd0dd8e"
+Template: "6723945c-b5fb-552c-8625-b2fe95c6d6f7"
+Path: "/sitecore/content/HeadlessTenant/migration-jss/Content/Styleguide/ContentListField/Item2"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 2 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T122947Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "430a8d8f-625b-5750-ace5-b7b6da4d5819"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 2 Text Field
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "752c090c-3a8f-4d7c-8cd6-d64396504972"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122947Z

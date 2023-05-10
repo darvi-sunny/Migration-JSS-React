@@ -1,0 +1,37 @@
+﻿---
+ID: "b790d74d-c200-5dab-97d6-87555259931b"
+Parent: "a7a2bdb9-ee71-5bb6-981c-28446bf1818c"
+Template: "703fb950-6895-5ec1-935b-98fe9bc2de82"
+Path: "/sitecore/content/HeadlessTenant/migration-jss/home/styleguide/Page Components/styleguide-jss-reuse-example-3A5D9C50-D8C1-5A12-8DA8-5D56C2A5A69A-0-ContentBlock-4"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T122951Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "812a2567-4ba4-4957-8814-b65f15f4d150"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T122951Z
+    - ID: "f255d3ee-2fbe-5008-8f68-2cd15d5fd6c5"
+      Hint: content
+      Value: <p>Mix and match reused and local content. Check out <code>/data/routes/styleguide/en.yml</code> to see how.</p>

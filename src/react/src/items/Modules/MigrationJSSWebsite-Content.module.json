@@ -1,0 +1,17 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "MigrationJSSWebsite-Content",
+    "references": [ "MigrationJSSWebsite" ],
+    "items": {
+        "includes": [
+            {
+                "name": "sxa-content",
+                "path": "/sitecore/content/HeadlessTenant"
+            },
+            {
+                "name": "sxa-media",
+                "path": "/sitecore/media library/Project/HeadlessTenant"
+            }
+        ]
+    }
+}
