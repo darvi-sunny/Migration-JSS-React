@@ -18,10 +18,10 @@ services:
       args:
         PARENT_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
     volumes:
-      - .\src\react:C:\app
+      - .\src\rendering:C:\app
     environment:
       SITECORE_API_HOST: "http://cm"
-      NEXTJS_DIST_DIR: ".next-container"
+      NEXTJS_DIST_DIR: ".next"
       PUBLIC_URL: "https://${RENDERING_HOST}"
       JSS_EDITING_SECRET: ${JSS_EDITING_SECRET}
       SITECORE_API_KEY: "${SITECORE_API_KEY_xmcloudpreview}"

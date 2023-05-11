@@ -1,0 +1,23 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "MigrationJSSWebsite-Content",
+    "references": [ "MigrationJSSWebsite" ],
+    "items": {
+        "includes": [
+            {
+                "name": "heladless-tenant-root",
+                "path": "/sitecore/content/HeadlessTenant",
+                "scope": "singleItem",
+                "allowedPushOperations": "createAndUpdate"
+            },
+            {
+                "name": "sxa-content",
+                "path": "/sitecore/content/HeadlessTenant/migration-jss-nextjs"
+            },
+            {
+                "name": "sxa-media",
+                "path": "/sitecore/media library/Project/HeadlessTenant/migration-jss-nextjs"
+            }
+        ]
+    }
+}
